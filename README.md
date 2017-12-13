@@ -22,3 +22,8 @@ Created by JC Hurst
 6- As an authenticated user, if I upload an image that is broken, it will be replaced by a placeholder image. (can use jQuery broken image detection)
 
 Hint: Masonry.js is a library that allows for Pinterest-style image grids.
+
+## Live app:
+
+https://obsidian-bubble.glitch.me
+
