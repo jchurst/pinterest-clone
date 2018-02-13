@@ -5,7 +5,7 @@ Created by JC Hurst
 
 [Github](https://github.com/jchurst) | [CodePen](http://codepen.io/jchurst/) | [LinkedIn](https://www.linkedin.com/in/jchurst) | [Webite](http://hurstcreative.com/) | [E-Mail](mailto:jchurstmail@gmail.com)
 
-# Pinterest Clone
+# SPINTEREST - Pinterest Clone
 
 ## User stories:
 
